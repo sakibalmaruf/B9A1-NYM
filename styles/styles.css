@@ -1,80 +1,80 @@
 *{
-            padding: 0;
-            margin: 0;
-            max-width: width 1440px;
-            height: auto;
-            
+  padding: 0;
+  margin: 0;
+  max-width: width 1440px;
+  height: auto;
+  
 }
 
 .font{
-            color: #6b696b;
+  color: #6b696b;
 }
-   /* header section */
-   .banner{
-            
-            background-image: radial-gradient(#010003 ,#0000), url('/resources/Vectorrr.png');
-            background-repeat: no-repeat;
-            height: 600px;
-            width: 100%;
-           
-   }
-   .banner-text{
-            align-items: center;
-            text-align: center;
-            justify-content: center ;
-            color: #ffff;
-            padding-top: 80px;
+/* header section */
+.banner{
+  
+  background-image: radial-gradient(#010003 ,#0000), url('/resources/Banner.png');
+  background-repeat: no-repeat;
+  height: 600px;
+  width: 100%;
+ 
+}
+.banner-text{
+  align-items: center;
+  text-align: center;
+  justify-content: center ;
+  color: #ffff;
+  padding-top: 80px;
 
 
-   }
-   #text-1{
-            font-size:25px;
-            font-weight: 300;
-            
-   }
-   #text-2{
-           
-            font-size: 75px;
-            font-weight: 800px;
-   }
+}
+#text-1{
+  font-size:25px;
+  font-weight: 300;
+  
+}
+#text-2{
+ 
+  font-size: 75px;
+  font-weight: 800px;
+}
 
-                                    /* discount Section */
-                                  
-     .discount{
-           padding:48px 0; 
-           text-align: center;        
+                          /* discount Section */
+                        
+.discount{
+ padding:48px 0; 
+ text-align: center;        
 }
 
 #off{
-         color: red;
-         font-size: 80px;
-         padding: 15px;
-   }    
-   #holiday-deal{
-            color: red;
-            padding: 5px;
-   }      
-   #CATEGORIES {
-            font-size: 35px;
-            padding: 15px;
-   } 
-                                  /* mid-night-party Section*/
+color: red;
+font-size: 80px;
+padding: 15px;
+}    
+#holiday-deal{
+  color: red;
+  padding: 5px;
+}      
+#CATEGORIES {
+  font-size: 35px;
+  padding: 15px;
+} 
+                        /* mid-night-party Section*/
 .mid-night-party{
-            background-image: radial-gradient(#010003 ,#0000), url("/resources/Vectorrr.png");
-            color: #ffff;
-            background-repeat: no-repeat;
-            height: 605px;
-            display: flex;
+  background-image: radial-gradient(#010003 ,#0000), url("/resources/Vectorrr.png");
+  color: #ffff;
+  background-repeat: no-repeat;
+  height: 605px;
+  display: flex;
 
 }
 
 
 .midnight{
-            padding: 180px 0 0 125px;
+  padding: 180px 0 0 125px;
 }
 #welcome{
-            font-size: 75px;
-            padding-bottom: 15px;
+  font-size: 75px;
+  padding-bottom: 15px;
 }
 .p1{
 color: #ffff, 80%;
@@ -83,98 +83,98 @@ font-size: larger;
 }
 
 .btn{
- border: none;
- font-size: larger;
- color: #ffff;
- background-color: black;
+border: none;
+font-size: larger;
+color: #ffff;
+background-color: black;
 }
 
 .NY2024{
-        padding: 60px 0 0 135px ;
+padding: 60px 0 0 135px ;
 }
-                                      /* Address Section*/
+                            /* Address Section*/
 
-  .address{
-            background-image: linear-gradient(180deg, #ffd8d2 0%, #fbe0e5 10%, #f6dee3 100%);
-            max-width: 1440px;
-            height: 482px;
-            margin: 68px 0 68px 0px;
-            border-radius: 15px;
-            text-align: center;
-            justify-content: space-between;
-            font-size:  25px;
-            padding-top:250px;
-  } 
-  .add-data{
-            color: red;
-  }  
-  .button{
-            padding: 10px 32px;
-            margin-top: 30px;
-           color: white;
-           background-color: red;
-           border-radius: 5px;
-           border: none;
-            
-  }  
+.address{
+  background-image: linear-gradient(180deg, #ffd8d2 0%, #fbe0e5 10%, #f6dee3 100%);
+  max-width: 1440px;
+  height: 482px;
+  margin: 68px 0 68px 0px;
+  border-radius: 15px;
+  text-align: center;
+  justify-content: space-between;
+  font-size:  25px;
+  padding-top:250px;
+} 
+.add-data{
+  color: red;
+}  
+.button{
+  padding: 10px 32px;
+  margin-top: 30px;
+ color: white;
+ background-color: red;
+ border-radius: 5px;
+ border: none;
   
-                                /* New Best Offer Section*/
-                                /* part-1*/
-                        
+}  
+
+                      /* New Best Offer Section*/
+                      /* part-1*/
+              
 .best-offer-section{
-            display: flex;
-            justify-content: center;
-            justify-content: space-between;
-            margin: 80px 0 80px 0;
+  display: flex;
+  justify-content: center;
+  justify-content: space-between;
+  margin: 80px 0 80px 0;
 
 }    
 .part-1{
-            padding-top: 80px;
+  padding-top: 80px;
 }
 #new{
-            color: red;
-            font-size: 20px;
-            padding-bottom: 10px;
+  color: red;
+  font-size: 20px;
+  padding-bottom: 10px;
 }
 
 #Coming{
-            font-size: 55px;   
-            padding-bottom: 10px;
+  font-size: 55px;   
+  padding-bottom: 10px;
 }
 
-                                         /* part-2*/
+                               /* part-2*/
 
 
 
 
 
-                                          /*part-3*/
+                                /*part-3*/
 .part-3{
-            padding-top: 80px; 
+  padding-top: 80px; 
 }
 #year{
-            color: red;
-            font-size: 55px;
-            padding-bottom: 10px;
+  color: red;
+  font-size: 55px;
+  padding-bottom: 10px;
 }
 #year-data{
-            padding-bottom: 15px;
+  padding-bottom: 15px;
 }
 
-                                 /* portfolio */
+                       /* portfolio */
 .portfolio{
-            margin-top: 68px;
-            margin-bottom: 68px;
+  margin-top: 68px;
+  margin-bottom: 68px;
 }
 .port{
-            padding: 15px;
-           
+  padding: 15px;
+ 
 }
 #gift{
-            color: red;
+  color: red;
 }
 #plio{
-            font-size: 55px;
+  font-size: 55px;
 }
 .pic-section{
 margin-top: 10px;
@@ -182,83 +182,82 @@ gap:5px;
 padding: 15px;
 width: 100%;
 }
-                       /* subscribe-section */
+             /* subscribe-section */
 
 .subscribe-section{
-            background-image: radial-gradient(#f6d2db ,#f9d6d600);
-            max-width: 1440px;
-            height: 482px;
-            margin: 68px 0 68px 0px;
-            border-radius: 15px;
-            text-align: center;
-            justify-content: space-between;
-            font-size:  25px;
-            padding-top:250px;
-            
+  background-image: radial-gradient(#f6d2db ,#f9d6d600);
+  max-width: 1440px;
+  height: 482px;
+  margin: 68px 0 68px 0px;
+  border-radius: 15px;
+  text-align: center;
+  justify-content: space-between;
+  font-size:  25px;
+  padding-top:250px;
+  
 }
 .gittu{
-            padding-bottom: 10px;
-            
+  padding-bottom: 10px;
+  
 }
 .email{
-        
-         width: 648px;  
-         height: 40px; 
-         border: none;
-         border-radius: 15px;
-         padding-left: 25px;
-         
+
+width: 648px;  
+height: 40px; 
+border: none;
+border-radius: 15px;
+padding-left: 25px;
+
 }
 #sub-btn{
-            color: #ffff;
-            background-color: red;
-            width: 210px;
-            height: 40px;
-            border-radius: 15px;
-            border:none;
+  color: #ffff;
+  background-color: red;
+  width: 210px;
+  height: 40px;
+  border-radius: 15px;
+  border:none;
 }
 
-    
+
 /*footer Section  */
 .footer{
-            color: #ffff;
-            background-image: radial-gradient(#0e0205 ,#000000
-            );
-            width: 1444px;
-            height: 400px;
-            padding:200px 0 200px 0;
+  color: #ffff;
+  background-image: radial-gradient(#0e0205 ,#000000
+  );
+  width: 1444px;
+  height: 400px;
+  padding:200px 0 200px 0;
 }
- .footer-in{
+.footer-in{
 
-            
-            display: flex;
-            justify-content: space-around;
-            margin-right: 10px; 
-            padding-top: 45px;
- }                             
- .phone-web { 
-            display: flex; 
-            align-items: center; 
-          }
-          
-          .phone-web div { 
-            display: flex; 
-            flex-direction: column; 
-          }
+  
+  display: flex;
+  justify-content: space-around;
+  margin-right: 10px; 
+  padding-top: 45px;
+}                             
+.phone-web { 
+  display: flex; 
+  align-items: center; 
+}
+
+.phone-web div { 
+  display: flex; 
+  flex-direction: column; 
+}
 .footer-img{ text-align: center;
 
-          }
+}
 
 .copyright{
-            justify-content: space-around;
-            display: flex;
-         }
+  justify-content: space-around;
+  display: flex;
+}
 
 .cr-btn{
-            border: none;
-            color: #ffff;
-            background-color: #000000;
+  border: none;
+  color: #ffff;
+  background-color: #000000;
 
 
-         }
-
+}
