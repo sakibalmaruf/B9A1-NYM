@@ -12,7 +12,7 @@
 /* header section */
 .banner{
   
-  background-image: radial-gradient(#010003 ,#0000), url('/resources/Banner.png');
+  background-image: radial-gradient(#010003 ,#0000), url('../resources/Banner.png');
   background-repeat: no-repeat;
   height: 600px;
   width: 100%;
@@ -60,7 +60,7 @@ padding: 15px;
 } 
                         /* mid-night-party Section*/
 .mid-night-party{
-  background-image: radial-gradient(#010003 ,#0000), url("/resources/Vectorrr.png");
+  background-image: radial-gradient(#010003 ,#0000), url("../resources/Vectorrr.png");
   color: #ffff;
   background-repeat: no-repeat;
   height: 605px;
